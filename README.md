@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/karthi-the-hacker/subsleuth/raw/main/images/logo.gif" ><br>
+<img src="https://github.com/karthi-the-hacker/subsleuth/raw/main/images/subsleuth.gif" ><br>
 
 </p>
 

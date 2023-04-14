@@ -33,7 +33,7 @@
    - input
      - `subsleuth -l domain-list.txt -w wordlist.txt`
    - output
-     - `subsleuth -d domain-list.txt -w wordlist.txt -o output.txt`
+     - `subsleuth -l domain-list.txt -w wordlist.txt -o output.txt`
 
 #### Usages 📚 :
 

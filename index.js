@@ -20,7 +20,6 @@ const argv = yargs(hideBin(process.argv)).argv
 
 // used to check the argument parsed data is empty or not 
 if( argv.h == true ){
-    
     help.helpmenu();
     return; 
 }
@@ -64,7 +63,7 @@ if(argv.l == null && argv.l == true ){
 }
 
 
-help.helpintro();
+
 //program execution part and calling the constructor class 
 new fileread.fileread(argv.d || argv.domain,argv.w || argv.wordlist ,argv.o || argv.output)
 
